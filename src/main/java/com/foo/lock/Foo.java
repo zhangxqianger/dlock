@@ -1,4 +1,4 @@
-package com.plt.lock.config;
+package com.foo.lock;
 
 /**
  * @author zxq

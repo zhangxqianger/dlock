@@ -1,6 +1,6 @@
-package com.plt.lock.aop;
+package com.foo.lock.aop;
 
-import com.plt.lock.annotation.DLock;
+import com.foo.lock.annotation.DLock;
 import org.springframework.core.MethodClassKey;
 import org.springframework.lang.Nullable;
 import org.springframework.util.Assert;

@@ -1,8 +1,8 @@
-package com.plt.lock.config;
+package com.foo.lock.config;
 
-import com.plt.lock.aop.DLockInterceptor;
-import com.plt.lock.aop.DLockPointcutAdvisor;
-import com.plt.lock.aop.LockAttributeSource;
+import com.foo.lock.aop.DLockInterceptor;
+import com.foo.lock.aop.DLockPointcutAdvisor;
+import com.foo.lock.aop.LockAttributeSource;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.plt.lock.aop;
+package com.foo.lock.aop;
 
 import org.springframework.aop.support.StaticMethodMatcherPointcut;
 

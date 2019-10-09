@@ -1,4 +1,4 @@
-package com.plt.lock;
+package com.foo.lock;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.plt.lock.exception;
+package com.foo.lock.exception;
 
 /**
  * @author zxq

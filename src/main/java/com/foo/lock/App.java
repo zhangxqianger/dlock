@@ -1,7 +1,6 @@
-package com.plt.lock;
+package com.foo.lock;
 
-import com.plt.lock.annotation.EnableDLock;
-import com.plt.lock.config.Foo;
+import com.foo.lock.annotation.EnableDLock;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
@@ -13,7 +12,6 @@ import org.springframework.context.ConfigurableApplicationContext;
 @EnableDLock
 public class App {
     public static void main(String[] args) {
-
         ConfigurableApplicationContext run = SpringApplication.run(App.class);
         TestBean bean = run.getBean(TestBean.class);
         Foo foo = new Foo();

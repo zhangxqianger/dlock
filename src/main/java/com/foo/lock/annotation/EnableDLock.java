@@ -1,8 +1,7 @@
-package com.plt.lock.annotation;
+package com.foo.lock.annotation;
 
 import org.springframework.context.annotation.AdviceMode;
 import org.springframework.context.annotation.Import;
-import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import java.lang.annotation.*;
 

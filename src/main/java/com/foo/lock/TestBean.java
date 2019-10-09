@@ -1,7 +1,6 @@
-package com.plt.lock;
+package com.foo.lock;
 
-import com.plt.lock.annotation.DLock;
-import com.plt.lock.config.Foo;
+import com.foo.lock.annotation.DLock;
 import org.springframework.stereotype.Component;
 
 /**

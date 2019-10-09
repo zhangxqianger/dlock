@@ -1,4 +1,4 @@
-package com.plt.lock.aop;
+package com.foo.lock.aop;
 
 import org.aopalliance.intercept.MethodInterceptor;
 import org.aopalliance.intercept.MethodInvocation;

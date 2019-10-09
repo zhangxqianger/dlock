@@ -1,4 +1,4 @@
-package com.plt.lock.annotation;
+package com.foo.lock.annotation;
 
 import java.lang.annotation.*;
 

@@ -1,6 +1,6 @@
-package com.plt.lock.annotation;
+package com.foo.lock.annotation;
 
-import com.plt.lock.config.DLockConfiguration;
+import com.foo.lock.config.DLockConfiguration;
 import org.springframework.context.annotation.AdviceMode;
 import org.springframework.context.annotation.AdviceModeImportSelector;
 import org.springframework.context.annotation.AutoProxyRegistrar;
